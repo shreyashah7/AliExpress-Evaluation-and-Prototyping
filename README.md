@@ -1,4 +1,4 @@
-# -Evaluation and Prototyping of AliExpress Web Application
+# Evaluation and Prototyping of AliExpress Web Application
 
 ### Purpose
 
